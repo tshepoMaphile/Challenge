@@ -1,0 +1,270 @@
+
+#light-mode {
+    
+}
+#light-mode .card {
+    background-color:hsl(227, 47%, 96%);
+}
+#light-mode #theme-button {
+    background-color:#00FF7F;
+}
+#light-mode .circle {
+    background-color: black;
+}
+
+#theme-button {
+    display:inline-block;
+    right:0%;
+    bottom:35%;
+    width:57px;
+    height:26px;
+    border-top:none;
+    border-radius:14px;
+    padding-top:2.8px;
+
+	
+	
+	
+}
+#theme-button, .circle {
+    position:absolute;
+
+	
+}
+.circle {
+    width:23px;
+    height:23px;
+    border-radius:50%;
+    left:7%;
+	  color:black;
+}
+#theme-button, .circle {
+    position:absolute;
+	
+}
+#change-theme {
+    padding-top:0px;
+    padding-bottom:0px;
+	
+}
+
+
+header, #change-theme, .card {
+    position:relative;
+}
+#total .card {
+    height:190px;
+    border-radius:5px 5px 0 0;
+    text-align:center;
+    padding-top:20px;
+}
+body {
+    padding-left:5vw;
+    padding-right:5vw;
+
+background-color  : black;
+}
+
+
+
+h{
+	
+	color : white;
+	padding-left:8px;
+}
+h1
+{
+	
+	float : right ;
+	color : white;
+	font-size : 20px;
+	
+}
+h2{
+	
+	color:white;
+	padding-left :8px;
+}
+h4{
+	color : white;
+}
+
+h6{
+	text-align: left;
+	color : white;
+	font-size:15px;
+	padding-bottom:30px;
+
+
+	
+}
+h7
+{
+	text-align:left;
+	color: green ;
+	
+}
+
+h8{
+	
+	padding-left:10px;
+	font-size: 20px;
+	color:white;
+}
+
+
+
+h9{
+	
+	font-size:12;
+	color:white;
+	
+}
+h10{
+	
+	
+	color:White;
+	float:right;
+	padding-right:50px;
+	font-size: 25px;
+	
+}
+.grid-container{
+	display : grid;
+	grid-column-gap: 23px;
+	grid-template-columns: auto auto auto auto;
+		grid-template-columns: auto auto auto auto;
+		
+	
+
+	
+}
+.grid-item {
+	background-color: #131940;
+	
+	padding :50px;
+	font-size:10px;
+	
+	border-top : 15px solid black;
+	
+
+}
+p{
+	
+	color: white;
+	font-size:40px;
+	padding :17px;
+}
+p1{
+	font-size:80px;
+	color: white;
+}
+
+p2{
+	
+	color: green;
+	font-size:23px;
+}
+p3{
+	color: red;
+	font-size:23px;
+}
+p4{
+	color:red;
+	float:right;
+	font-size:25px;.
+	padding-top:20px;
+	padding-top:20px;
+}
+
+
+.grid-container1{
+	display : grid;
+	grid-column-gap: 23px;
+	grid-template-columns: auto auto auto auto;
+	padding:5px;	
+	
+	
+}
+
+.grid-item1 {
+	background-color: #131940;
+
+	padding :50px;
+	font-size:10px;
+	text-align: center ;
+	
+	border-top : 3px solid blue;
+	
+
+}
+.grid-item3 {
+	background-color: #131940;
+
+	padding :50px;
+	font-size:10px;
+	text-align: center ;
+	
+	border-top : 3px solid orange;
+	
+
+}
+.grid-item4 {
+	background-color: #131940;
+
+	padding :50px;
+	font-size:10px;
+	text-align: center ;
+	
+	border-top : 3px solid red;
+	
+
+}
+
+
+
+
+qoute {
+    color:hsl(163, 72%, 41%);
+    font-weight:bolder;
+	font-size:25px;
+	padding-top:20px;
+	
+}
+#total .card strong {
+    margin-top:10px;
+    font-size:4em;
+}
+#overviews .card strong {
+    left:10%;
+    bottom:5%;
+    font-size:9.5em;
+}
+#overviews .card qoute {
+    right:10%;
+    bottom:15%;
+}
+strong{
+	
+	font-size:59px;
+	color:white;
+	padding-top:10px;
+}
+.padding{
+	
+	height:11px;
+	padding-top:30px;
+	padding-right:5px;
+}
+.padding2{
+	
+	
+	height:10px;
+	padding-top:30px;
+	padding-right:5px;
+}
+
+
+
+
+
